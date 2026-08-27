@@ -15,4 +15,7 @@ C# + Stockfish = Backend (Server/Engine)
 so the program communication using protokol 
 in Java swing as gui front end communication  with c#/bot stocfish using consep IPC (Inter-Process Communication)."
 
-proff video https://github.com/urfemthings/CHESS-BOT/raw/main/Screenrecording_20260826_195310.mp4
+proff video 
+gameplay:
+https://github.com/urfemthings/CHESS-BOT/raw/main/Screenrecording_20260826_195310.mp4
+lowkey i try 2000 elo and i lose but here the results 
