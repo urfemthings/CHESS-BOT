@@ -14,3 +14,5 @@ C# + Stockfish = Backend (Server/Engine)
 
 so the program communication using protokol 
 in Java swing as gui front end communication  with c#/bot stocfish using consep IPC (Inter-Process Communication)."
+
+proff video https://github.com/urfemthings/catur2lol/raw/main/Screenrecording_20260826_195310.mp4
