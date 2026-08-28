@@ -6,7 +6,7 @@ use 6 concepts
 -Cross-Platform / Cross-Runtime Integration
 -Client-Server Architecture (Local Host)
 
-so the Java is FORNEND
+so the Java is FRONTEND
 and the c#/bot is BACKEND
 
 Java (Swing) = Frontend (Client)
