@@ -12,8 +12,8 @@ and the c#/bot is BACKEND
 Java (Swing) = Frontend (Client)
 C# + Stockfish = Backend (Server/Engine)
 
-so the program communication using protokol 
-in Java swing as gui front end communication  with c#/bot stocfish using consep IPC (Inter-Process Communication)."
+so the program communication using protokol (in Bridge.cs and Board.java)
+in Java swing (Board.java )as gui front end communication  with c#/bot(Bridge.cs) code stocfish using consep IPC (Inter-Process Communication)."
 
 proff video 
 gameplay:
