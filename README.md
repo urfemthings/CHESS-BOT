@@ -19,3 +19,5 @@ proff video
 gameplay:
 https://github.com/urfemthings/CHESS-BOT/raw/main/Screenrecording_20260826_195310.mp4
 lowkey i try 2000 elo and i lose but here the results 
+
+Tools i used: nano (Text Editor), OpenJDK (Java 21), dan Mono (C#), vim
