@@ -27,7 +27,7 @@ how to run it;
 download termux x-11 
 open termux-x11 
 (run in background)
-open temrux 
+open termux 
 type this command : termux-x11 :0 -xstartup "xfce4-session" &
 
 in 1 section
