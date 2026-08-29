@@ -29,6 +29,7 @@ open termux-x11
 (run in background)
 open temrux 
 type this command : termux-x11 :0 -xstartup "xfce4-session" &
+
 in 1 section
 
 now section add section 2
