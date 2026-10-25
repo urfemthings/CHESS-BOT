@@ -22,7 +22,7 @@ lowkey i try 2000 elo (can custom up to 3500+ elo)and i lose but here the result
 
 Tools i used: nano (Text Editor), OpenJDK (Java 21), dan Mono (C#), vim,termux,x11
 
-how to run it;
+## how to run it;
 
 download termux x-11 
 open termux-x11 
